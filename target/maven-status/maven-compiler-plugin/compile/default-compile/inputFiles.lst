@@ -1,0 +1,13 @@
+C:\Users\malik\Desktop\service_monitor\src\main\java\com\malikborov\servicemonitor\config\SecurityConfig.java
+C:\Users\malik\Desktop\service_monitor\src\main\java\com\malikborov\servicemonitor\controller\AdminController.java
+C:\Users\malik\Desktop\service_monitor\src\main\java\com\malikborov\servicemonitor\controller\AuthController.java
+C:\Users\malik\Desktop\service_monitor\src\main\java\com\malikborov\servicemonitor\controller\StatsController.java
+C:\Users\malik\Desktop\service_monitor\src\main\java\com\malikborov\servicemonitor\model\AvailabilityLog.java
+C:\Users\malik\Desktop\service_monitor\src\main\java\com\malikborov\servicemonitor\model\MonitoredService.java
+C:\Users\malik\Desktop\service_monitor\src\main\java\com\malikborov\servicemonitor\model\User.java
+C:\Users\malik\Desktop\service_monitor\src\main\java\com\malikborov\servicemonitor\repository\AvailabilityLogRepository.java
+C:\Users\malik\Desktop\service_monitor\src\main\java\com\malikborov\servicemonitor\repository\MonitoredServiceRepository.java
+C:\Users\malik\Desktop\service_monitor\src\main\java\com\malikborov\servicemonitor\repository\UserRepository.java
+C:\Users\malik\Desktop\service_monitor\src\main\java\com\malikborov\servicemonitor\scheduler\HealthCheckScheduler.java
+C:\Users\malik\Desktop\service_monitor\src\main\java\com\malikborov\servicemonitor\service\MonitoringService.java
+C:\Users\malik\Desktop\service_monitor\src\main\java\com\malikborov\servicemonitor\ServiceMonitorApplication.java

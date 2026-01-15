@@ -1,0 +1,12 @@
+com\malikborov\servicemonitor\model\User.class
+com\malikborov\servicemonitor\config\SecurityConfig.class
+com\malikborov\servicemonitor\controller\StatsController.class
+com\malikborov\servicemonitor\repository\AvailabilityLogRepository.class
+com\malikborov\servicemonitor\repository\UserRepository.class
+com\malikborov\servicemonitor\controller\AdminController.class
+com\malikborov\servicemonitor\ServiceMonitorApplication.class
+com\malikborov\servicemonitor\model\AvailabilityLog.class
+com\malikborov\servicemonitor\service\MonitoringService.class
+com\malikborov\servicemonitor\repository\MonitoredServiceRepository.class
+com\malikborov\servicemonitor\model\MonitoredService.class
+com\malikborov\servicemonitor\scheduler\HealthCheckScheduler.class
